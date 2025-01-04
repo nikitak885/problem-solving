@@ -19,7 +19,7 @@ Output: false
 
 Example 3:
 ```
-Input: s = "madam", t = "madan"
+Input: s = "madam", t = "madam"
 
 Output: true
 ```
